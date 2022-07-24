@@ -1,1 +1,1 @@
-## 👋 hello i'm kxz [kxz7Dev GitHub stats](https://github-readme-stats.vercel.app/api?username=kxz7Dev&show_icons=true&theme=dracula) <div style="display: inline_block"><br/> <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> </div>
+## 👋 hello i'm kxz7 <div style="display: inline_block"><br/> <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> </div>
